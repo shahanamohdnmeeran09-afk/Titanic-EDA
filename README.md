@@ -35,9 +35,6 @@ The objective is to identify patterns and insights that influenced passenger sur
 - Total and average revenue per class.
 - Insights into ticket pricing and revenue contribution.
 
-### 7. Family Size Analysis
-- Family size derived as `SibSp + Parch + 1`.
-- Effect of family size on survival chances.
 
 ---
 
@@ -63,12 +60,23 @@ The analysis uses **Seaborn** and **Matplotlib** for rich visualizations:
 - **Class Factor:** 1st class passengers had the best survival chances; 3rd class had the worst.
 - **Age Factor:** Children and young adults had better survival odds.
 - **Fare:** Higher ticket fares correlated with better survival chances.
-- **Family Size:** Small families (2–4 members) survived more than solo or large families.
+
 
 ---
 
 ## 📂 Repository Structure
 
 
+---
 
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+ 
+---
 
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+  
+https://github.com/shahanamohdnmeeran09-afk/Titanic-EDA/
